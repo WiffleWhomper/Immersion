@@ -40,8 +40,8 @@ Edit the cfggameplay.json Open the cfggameplay.json file in the correct mission 
 
 Edit the file to look like this:
 
-"objectSpawnersArr": ["custom/sakhalstore.json"] If you're already calling other custom JSONs to spawn items or buildings, separate them with commas:
+"objectSpawnersArr": ["custom/example1.json"] If you're already calling other custom JSONs to spawn items or buildings, separate them with commas:
 
-"objectSpawnersArr": ["custom/sakhalstore.json", "custom/anotherfile.json", "custom/differentfile.json"] Restart Your Server After completing these steps, restart your server, and the new store will spawn with all items ready for use.
+"objectSpawnersArr": ["custom/example1.json", "custom/example2.json", "custom/example3.json"] Restart Your Server After completing these steps, restart your server, and the new store will spawn with all items ready for use.
 
 Thanks, and happy gaming! Created by @WiffleWhomper For support or inquiries: c.lindberg823@gmail.com
