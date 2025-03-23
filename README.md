@@ -1,7 +1,7 @@
 # Immersion 
 Custom Structure JSON Files For Console and PC Instructions ONLY WORKS ON DAYZ 1.26 AND LATER!!! NOT EARLIER VERSIONS!!!
 
-These files are all pieces that collectively make up the overhaul that I am continuously working that gives Sakhal hidden easter eggs to award the curious looters. in it, you have Hold-outs, strong-holds, lost stories, environmental story telling, and simply general supplies often hidden in plain sight. 
+"These files are all pieces that collectively make up my idea of immersion in DayZ. This will be an on-going project but to summerize, I beleive in continuing the story the dev's told through ehnanced/furthered/expanded-upon story-telling. You won't find large scale builds that stand out far in the distance. instead I placed extra loot and supplies around the map in areas I feel they could have existed. I hope this expands on the story told through the official DayZ Experience. thank you for playing, Happy Gaming" -Wiffle
 
 #  IVE ADDED INDIVIDUAL JSON/DZE FILES AS WELL AS A ZIP OF ALL JSONS OR ALL DZE TOGETHER
 
